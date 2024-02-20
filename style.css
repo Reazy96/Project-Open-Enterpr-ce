@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Bely;
+  src: url(./assets/fonts/Bely\ Display\ W00\ Regular.ttf);
+}
+@font-face {
+  font-family: Cousine;
+  src: url(./assets/fonts/Cousine-Regular.ttf);
+}
+
+@font-face {
+  font-family: Montserrat;
+  src: url(./assets/fonts/Montserrat-VariableFont_wght.ttf);
+}
+@font-face {
+  font-family: DidactGothic;
+  src: url(./assets/fonts/DidactGothic-Regular.ttf);
+}
